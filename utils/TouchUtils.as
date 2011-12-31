@@ -7,7 +7,7 @@ package utils
 	import starling.events.TouchEvent;
 	/**
 	 *触摸事件工具类 
-	 * @author zhouhua
+	 * @author rainbowgamer
 	 * 
 	 */
 	public class TouchUtils
